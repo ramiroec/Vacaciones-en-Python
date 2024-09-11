@@ -3,14 +3,14 @@
     "id": 1,
     "nombre": "Juan",
     "apellido": "P\u00e9rez",
-    "fecha_inicial": "2024-08-01",
-    "fecha_final": "2024-08-10"
+    "fecha_inicial": "2024-09-18",
+    "fecha_final": "2024-09-21"
   },
   {
     "id": 2,
     "nombre": "Mar\u00eda Ana",
     "apellido": "L\u00f3pez",
     "fecha_inicial": "2024-09-15",
-    "fecha_final": "2024-09-25"
+    "fecha_final": "2024-09-22"
   }
 ]
