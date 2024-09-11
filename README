@@ -1,11 +1,8 @@
-# Aplicación de Gestión de Vacaciones
-
+🌴 Aplicación de Gestión de Vacaciones 🌴
 Una aplicación web desarrollada con Flask para gestionar las vacaciones de los empleados de una empresa. La aplicación permite a los usuarios ver un calendario de vacaciones, añadir, actualizar y eliminar registros de vacaciones de manera sencilla.
 
-## Características
-
-- **Visualización de Vacaciones:** Muestra un calendario interactivo con todas las vacaciones registradas.
-- **Gestión de Vacaciones:** Permite añadir, actualizar y eliminar registros de vacaciones.
-- **Interfaz de Usuario Amigable:** Utiliza Bootstrap para un diseño atractivo y responsivo.
-- **Persistencia de Datos:** Almacena los registros de vacaciones en un archivo JSON para facilitar el manejo de datos.
-
+🚀 Características
+📅 Visualización de Vacaciones: Muestra un calendario interactivo con todas las vacaciones registradas.
+📝 Gestión de Vacaciones: Permite añadir, actualizar y eliminar registros de vacaciones.
+💻 Interfaz de Usuario Amigable: Utiliza Bootstrap para un diseño atractivo y responsivo.
+💾 Persistencia de Datos: Almacena los registros de vacaciones en un archivo JSON para facilitar el manejo de datos.
