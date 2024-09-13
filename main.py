@@ -9,16 +9,17 @@ file_path = './vacaciones.json'
 
 # Función para leer los datos del archivo JSON
 def read_database():
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8') as file:
         # Leer y devolver los datos como un diccionario de Python
         data = json.load(file)
     return data
 
 # Función para escribir datos en el archivo JSON
 def write_database(data):
-    with open(file_path, 'w') as file:
+    with open(file_path, 'w', encoding='utf-8') as file:
         # Guardar los datos en el archivo con indentación para mayor legibilidad
-        json.dump(data, file, indent=2)
+        json.dump(data, file, indent=2, ensure_ascii=False)
+
 
 # Ruta principal que renderiza la página de inicio
 @app.route('/')
