@@ -23,4 +23,18 @@ Una aplicación web desarrollada con Flask para gestionar las vacaciones de los 
    ```bash
    git clone https://github.com/ramiroec/Vacaciones-en-Python.git
    cd Vacaciones-en-Python
+   ```
+
+2. **Instala las dependencias:**
+   ```bash
+   pip install flask
+   ```
+
+3. **Ejecuta la aplicación:**
+   ```bash
    python main.py
+   ```
+
+## 🌟 Créditos
+
+Proyecto desarrollado con ❤️ por [Ramiro Estigarribia Canese](https://github.com/ramiroec).
